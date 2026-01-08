@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.streamlit/
+.env
+venv/
+env/
+.venv/
+*.zip
+sentiment_model_v1/
+phobert-sentiment-results/
+my_phobert_sentiment_model/
+*.doc
+*.pptx
