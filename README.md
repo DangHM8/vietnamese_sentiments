@@ -63,5 +63,3 @@ This project is a comprehensive toolkit for **Vietnamese Sentiment Analysis**, f
 The models were trained on the [anotherpolarbear/vietnamese-sentiment-analysis](https://huggingface.co/datasets/anotherpolarbear/vietnamese-sentiment-analysis) dataset, which consists of over 10,000 customer reviews labeled from 1 to 5 stars, mapped into 3 sentiment classes.
 
 ---
-
-_Developed as part of the LLM course at HUST._
